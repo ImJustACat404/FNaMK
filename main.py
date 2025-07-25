@@ -11,6 +11,7 @@ from game.camera_system import CameraSystem
 from game.animatronic_ai import AnimatronicAI
 from game.ui_system import UISystem
 
+
 class FNAFGame:
     def __init__(self):
         pygame.init()
